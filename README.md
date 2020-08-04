@@ -30,7 +30,7 @@
 
 [![ ](https://github-readme-medium.vercel.app/?username=augustinjose1221)](https://medium.com/@augustinjose1221)
 
-[![Spotify](https://augustinjose1221.vercel.app/api/spotify-playing)](https://open.spotify.com/user/jmzuq243qhl31avw4vsk1w2ty)
+[![Spotify](https://augustin-jose1221.vercel.app/api/spotify-playing)](https://open.spotify.com/user/jmzuq243qhl31avw4vsk1w2ty)
 
 <p align="center">
 <a href="https://twitter.com/https://twitter.com/augustinjose121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/augustinjose121" height="20" width="20" /></a>
