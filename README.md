@@ -26,10 +26,15 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinjose1221&layout=compact&hide=html" alt="augustinjose1221" />
 
 <br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=augustinjose1221&show_icons=true" alt="augustinjose1221" />
+
 <br>
+
 [![ ](https://github-readme-medium.vercel.app/?username=augustinjose1221)](https://medium.com/@augustinjose1221)
+
 <br>
+
 [![Spotify](https://augustin-jose1221.vercel.app/api/spotify-playing)](https://open.spotify.com/user/jmzuq243qhl31avw4vsk1w2ty)
 
 <p align="center">
