@@ -3,23 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustinjose1221" alt="augustinjose1221" /> </p>
 
-- 🔭 I’m currently working on [bleh](bhel)
+- 🔭 I’m currently working on [image processing](https://github.com/AugustinJose1221/Internship)
 
-- 🌱 I’m currently learning **help**
+- 🌱 I’m currently learning **Verilog**
 
-- 👯 I’m looking to collaborate on [too](oto)
+- 👨‍💻 All of my projects are available [here](https://github.com/AugustinJose1221)
 
-- 🤔 I’m looking for help with [foo](bar)
+- 📝 Read my articles [here](https://blog.augustinjose.com/)
 
-- 👨‍💻 All of my projects are available at [gulugulu](gulugulu)
+- 💬 Ask me about **anything**
 
-- 📝 I regulary write articles on [bulubulu](bulubulu)
+- 📫 Reach me at **augustinjose1221@gmail.com**
 
-- 💬 Ask me about **hilfe**
-
-- 📫 How to reach me **f@boy.bomb**
-
-- ⚡ Fun fact **koffee**
+- ⚡ Fun fact **We don't live in a Euclidean universe**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
