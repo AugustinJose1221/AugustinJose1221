@@ -33,7 +33,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustinjose1221&show_icons=true" alt="augustinjose1221" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=augustinjose1221&show_icons=true" alt="augustinjose1221" />
 </p>
 
 <br>
