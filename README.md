@@ -28,10 +28,10 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinjose1221&layout=compact&hide=html" alt="augustinjose1221">
 
 <br>
-<h2>Github Statistics</h2>
+<h1>Github Statistics</h1>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustinjose1221&show_icons=true" alt="augustinjose1221">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=augustinjose1221&show_icons=true" alt="augustinjose1221">
 
 <br>
 
