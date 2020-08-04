@@ -35,6 +35,7 @@ def refreshToken():
     headers = {"Authorization": "Basic {}".format(getAuth())}
 
     response = requests.post(SPOTIFY_URL_REFRESH_TOKEN, data=data, headers=headers)
+    print(os.getenv("process.env.SPOTIFY_CLIENT_ID"),"\n", os.getenv("SPOTIFY_CLIENT_ID"))
     print("TEST\n",response,"\n", response.json())
     return response.json()["access_token"]
 
