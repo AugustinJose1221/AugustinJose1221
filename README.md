@@ -28,9 +28,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinjose1221&layout=compact&hide=html" alt="augustinjose1221">
 
 <br>
-<br>
 
-# Github Statistics
+<h4>Github Statistics</h4>
 
 <br>
 
