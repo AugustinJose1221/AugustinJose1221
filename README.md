@@ -28,9 +28,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinjose1221&layout=compact&hide=html" alt="augustinjose1221">
 
 <br>
-
-<h4>Github Statistics</h4>
-
+<h2>Github Statistics</h2>
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=augustinjose1221&show_icons=true" alt="augustinjose1221">
