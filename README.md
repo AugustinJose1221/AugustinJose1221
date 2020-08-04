@@ -39,7 +39,7 @@
 
 <br>
 
-<a href="https://twitter.com/augustinjose121"><img src="tweet.png" width="600"></a>
+<a href="https://twitter.com/augustinjose121"><img src="https://github.com/AugustinJose1221/AugustinJose1221/blob/master/tweet.png" width="600"></a>
 
 <br>
 
