@@ -28,6 +28,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=augustinjose1221&show_icons=true" alt="augustinjose1221" />
 ### Blogs posts
+
 [![Augustin Jose Medium](https://github-readme-medium.vercel.app/?username=augustinjose1221)](https://medium.com/@augustinjose1221)
 
 <p align="center">
