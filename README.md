@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **We don't live in a Euclidean universe**
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!--
@@ -27,6 +27,8 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=augustinjose1221&show_icons=true" alt="augustinjose1221" />
+### Blogs posts
+[![Augustin Jose Medium](https://github-readme-medium.vercel.app/?username=augustinjose1221)](https://medium.com/@augustinjose1221)
 
 <p align="center">
 <a href="https://twitter.com/https://twitter.com/augustinjose121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/augustinjose121" height="20" width="20" /></a>
