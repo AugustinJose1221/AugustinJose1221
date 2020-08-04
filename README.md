@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Augustin Jose</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A coder with an obsession for stylish comments</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustinjose1221" alt="augustinjose1221" /> </p>
 
