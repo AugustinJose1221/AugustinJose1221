@@ -35,6 +35,11 @@
 
 <br>
 
+##Latest Tweet
+<a href="https://twitter.com/augustinjose121"><img src="tweet.png" width="600"></a>
+
+<br>
+
 [![Spotify](https://augustin-jose1221.vercel.app/api/spotify-playing)](https://open.spotify.com/user/jmzuq243qhl31avw4vsk1w2ty)
 
 <p align="center">
