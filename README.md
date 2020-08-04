@@ -29,7 +29,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=augustinjose1221&show_icons=true" alt="augustinjose1221" />
 
 [![ ](https://github-readme-medium.vercel.app/?username=augustinjose1221)](https://medium.com/@augustinjose1221)
-[![Spotify](https://img.shields.io/badge/spotify-omni-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/omnitenebris)
+
+[![Spotify](https://augustinjose1221.vercel.app/api/spotify-playing)](https://open.spotify.com/user/augustinjose)
+
 <p align="center">
 <a href="https://twitter.com/https://twitter.com/augustinjose121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/augustinjose121" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/augustin-jose1221/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/augustin-jose1221/" height="20" width="20" /></a>
