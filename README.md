@@ -36,8 +36,7 @@
 <br>
 
 # Latest Tweet
-
-[![Twitter](https://readme-bot.vercel.app/api/Handler)](https://twitter.com/augustinjose121)
+[![ ](https://readme-bot.vercel.app/api/Handler)](https://twitter.com/augustinjose121)
 
 <!--
 <br>
