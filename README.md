@@ -31,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=augustinjose1221&show_icons=true" alt="augustinjose1221" />
 <br />
 
-[![ ](https://github-readme-medium.vercel.app/?username=augustinjose1221)](https://medium.com/@augustinjose1221)
+
 
 <br>
 
